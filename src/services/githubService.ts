@@ -2,7 +2,7 @@
 // This service handles all data storage and retrieval from GitHub
 
 const GITHUB_CONFIG = {
-  OWNER: 'YOUR_GITHUB_USERNAME', // Replace with your GitHub username
+  OWNER: 'tkmani91', // Replace with your GitHub username
   REPO: 'khs-data', // Repository name for data storage
   BRANCH: 'main',
   DATA_FILE: 'database.json',
